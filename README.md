@@ -22,3 +22,6 @@
   - Logstash
   - Canal
 - JMeter 压力测试
+# 聚合搜索实现接口
+`com.yiso.springbootinit.controller.SearchController`
+
