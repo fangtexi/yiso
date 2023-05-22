@@ -1,5 +1,6 @@
 # 项目架构
 
+![image](https://github.com/fangtexi/yiso/assets/79567863/79fd6019-0dc8-43f1-9290-fcad0b78e4d3)
 
 [toc]
 
