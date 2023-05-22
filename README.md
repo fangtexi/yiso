@@ -1,8 +1,6 @@
 # 项目架构
 
-![image](https://github.com/fangtexi/yiso/assets/79567863/79fd6019-0dc8-43f1-9290-fcad0b78e4d3)
-
-[toc]
+![image](https://github.com/fangtexi/yiso/assets/79567863/7d1b4b65-224b-4594-bc52-2386ff3141f9)
 
 ## 模板特点
 
