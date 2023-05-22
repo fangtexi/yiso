@@ -6,7 +6,7 @@
 - Spring Boot 2.7 框架
 - MySQL 数据库（8.x 版本）
 - Elastic Stack 
--- Elasticsearch 搜索引擎（重点）
+  - Elasticsearch 搜索引擎（重点）
 -- Logstash 数据管道
 -- Kibana 数据可视化
 - 数据抓取（jsoup、HttpClient 爬虫） 
